@@ -1,6 +1,6 @@
 <div>
   <h2 align="center">Introduction</h1>
-  <p>👋 Hi, I’m **@AkkeAtli**</p>
+  <p>👋 Hi, I’m <strong>@AkkeAtli</strong></p>
 </div>
 
 
